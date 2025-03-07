@@ -1884,6 +1884,21 @@
             <mxPoint x="-2890" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="58nYkd-_39BHE_bLY_f4-46" value="查&lt;div&gt;看&lt;div&gt;词&lt;div&gt;条&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2935" y="605" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="58nYkd-_39BHE_bLY_f4-47" value="添&lt;div&gt;加&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;条&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2870" y="604" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="58nYkd-_39BHE_bLY_f4-48" value="特&lt;div&gt;点&lt;/div&gt;&lt;div&gt;检&lt;/div&gt;&lt;div&gt;索&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;条&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2802" y="604" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="58nYkd-_39BHE_bLY_f4-49" value="收&lt;div&gt;藏&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;条&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2740" y="604" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="58nYkd-_39BHE_bLY_f4-50" value="对&lt;div&gt;词&lt;/div&gt;&lt;div&gt;条&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2679" y="604" width="50" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
