@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.9">
   <diagram name="第 1 页" id="vnE6r9n9mOiBeiEeXdWy">
-    <mxGraphModel dx="7999" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8275" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1278,19 +1278,16 @@
           <mxGeometry x="-650.37" y="1920" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3290" y="1490" width="630" height="1030" as="geometry" />
+          <mxGeometry x="-3290" y="1490" width="630" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-2" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="P4AcUIOnfRgmxcx_NMKI-2" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3270" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-3190" y="1610" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-5" value="html" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3150" y="1620" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-6" value="css" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3035" y="1620" width="70" height="40" as="geometry" />
+        <mxCell id="P4AcUIOnfRgmxcx_NMKI-5" value="html+css+js" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3150" y="1620" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-7" value="vue框架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2929" y="1620" width="70" height="40" as="geometry" />
@@ -1302,18 +1299,15 @@
           <mxGeometry x="-3190" y="1690" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-11" value="API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3110" y="1697.5" width="110" height="45" as="geometry" />
+          <mxGeometry x="-2990" y="1697.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-12" value="UI组件库ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2820" y="1620" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-13" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2910" y="1697.5" width="110" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-3190" y="1770" width="500" height="270" as="geometry" />
+          <mxGeometry x="-3190" y="1770" width="500" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-25" value="后端架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="P4AcUIOnfRgmxcx_NMKI-25" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3270" y="1545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1322,7 +1316,7 @@
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-27" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3125" y="1540" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-30" value="java" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P4AcUIOnfRgmxcx_NMKI-30" value="MybatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2910" y="1540" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-31" value="数据接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1355,38 +1349,29 @@
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-42" value="查询服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2860" y="1920" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-43" value="维护服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3150" y="1982.5" width="110" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-3190" y="2060" width="500" height="90" as="geometry" />
+          <mxGeometry x="-3190" y="2005" width="500" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-46" value="数据存放" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3270" y="2090" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3270" y="2035" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-47" value="MySQL数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-3105" y="2070" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-48" value="内存数据库&lt;div&gt;Redis&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-2890" y="2070" width="120" height="70" as="geometry" />
+          <mxGeometry x="-3120" y="2015" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-3190" y="2169" width="500" height="71" as="geometry" />
+          <mxGeometry x="-3190" y="2107" width="500" height="71" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-50" value="数据接入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3270" y="2189.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3270" y="2127.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-51" value="接口拉取/接收&lt;div&gt;API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3095" y="2180" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P4AcUIOnfRgmxcx_NMKI-52" value="&lt;font&gt;日志收集&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; padding: 0px; -webkit-font-smoothing: antialiased; list-style: none; margin: 0px; scrollbar-width: none; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; color: rgb(5, 7, 59); text-align: left; background-color: rgb(253, 253, 254);&quot;&gt;&lt;font&gt;Logback&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2885" y="2179.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-2990" y="2117.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-53" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3190" y="2260" width="500" height="60" as="geometry" />
+          <mxGeometry x="-3190" y="2198" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4AcUIOnfRgmxcx_NMKI-54" value="运行环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3270" y="2275" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3270" y="2213" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-Vfig3W4TJ8QW4YQxvv-1" value="用户" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1540" width="100" height="40" as="geometry" />
@@ -1487,7 +1472,7 @@
             <mxPoint x="-1692.5" y="4333.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uf947o3MSus_l9KPwTQB-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.219;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uf947o3MSus_l9KPwTQB-13" edge="1" target="jrKSSH3vJCNs5EBRfWkS-9">
+        <mxCell id="Uf947o3MSus_l9KPwTQB-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.219;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uf947o3MSus_l9KPwTQB-13" target="jrKSSH3vJCNs5EBRfWkS-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1462.5" y="4485.49" as="sourcePoint" />
             <mxPoint x="-1552.5" y="4309.997074829932" as="targetPoint" />
@@ -2039,6 +2024,9 @@
             <mxPoint x="-1390" y="3890" as="sourcePoint" />
             <mxPoint x="-1340" y="3840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W8raSSx1Qr1_bnQkCbL4-2" value="云存储&lt;div&gt;oss&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-2890" y="2015" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
